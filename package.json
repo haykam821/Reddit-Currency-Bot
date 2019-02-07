@@ -1,0 +1,11 @@
+{
+	"name": "reddit-currency-bot",
+	"description": "A Reddit bot that allows people to give a currency.",
+	"version": "1.0.0",
+	"main": "./src/index.js",
+	"dependencies": {
+		"escape-string-regexp": "^1.0.5",
+		"snoostorm": "0.0.5",
+		"snoowrap": "^1.15.2"
+	}
+}
