@@ -14,7 +14,7 @@ function save(data) {
 }
 
 function commentText(msg) {
-	return msg + "\n\n---\n\n*I am a bot. | [Contact](https://www.reddit.com/message/compose?to=u/haykam821&subject=Reddit%20Currency%20Bot)*";
+	return msg + "\n\n---\n\n*I am a bot. | [Contact](https://www.reddit.com/message/compose?to=u/haykam821&subject=Reddit%20Currency%20Bot) | [Source](https://github.com/haykam821/Reddit-Currency-Bot)*";
 }
 
 (async () => {
