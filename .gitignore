@@ -74,3 +74,9 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+# config, contains credentials
+config.json
+
+# production data
+data.json
